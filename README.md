@@ -38,3 +38,4 @@ delete from <table name> where <condition>; - deletes a row in the table
  - 'where <condition>' can be left out to delete everything in the table
  - condition: <table name> = '<value>'
 
+Have Fun! :)
