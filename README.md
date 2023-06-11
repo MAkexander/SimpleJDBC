@@ -5,6 +5,7 @@ Two simple classes to use you're MySQL-Database in Java
 Here's a quick cheat sheed for the MySQL stuff:
 
 <ins>To start the server (on Windows):</ins>
+
  - enter the cmd
  - cd to the 'MySQL Workbench' folder:
 	press win and enter 'MySQL Workbench'
@@ -23,6 +24,7 @@ Here's a quick cheat sheed for the MySQL stuff:
 	press on start/stop/restart
  
 <ins>Important Commands:</ins>
+	
 drop database <database name>; - deletes database permanently
 show databases; - shows all installed databases
  - normally: information_schema, mysql, performance_schema, sys
