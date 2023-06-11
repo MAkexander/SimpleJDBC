@@ -1,7 +1,7 @@
  - SimpleJDBC -
 
 Two simple classes to use you're MySQL-Database in Java
-(Please make sure to have mySQL and the mySQL Notifier installed)
+(Please make sure to have mySQL and the mySQL Notifier installed, and included this jar file to your project: https://mvnrepository.com/artifact/com.mysql/mysql-connector-j/8.0.33)
 
 Here's a quick cheat sheed for the MySQL stuff:
 
